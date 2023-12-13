@@ -1,0 +1,6 @@
+E:\Projects\Utilities\genPromoList\genPromoList\bin\Debug\genPromoList.exe.config
+E:\Projects\Utilities\genPromoList\genPromoList\bin\Debug\genPromoList.exe
+E:\Projects\Utilities\genPromoList\genPromoList\bin\Debug\genPromoList.pdb
+E:\Projects\Utilities\genPromoList\genPromoList\obj\Debug\genPromoList.csprojResolveAssemblyReference.cache
+E:\Projects\Utilities\genPromoList\genPromoList\obj\Debug\genPromoList.exe
+E:\Projects\Utilities\genPromoList\genPromoList\obj\Debug\genPromoList.pdb
